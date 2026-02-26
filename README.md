@@ -1,4 +1,4 @@
-![logo](https://github.com/montoojatav-kcg/montoojatav-kcg/blob/main/4de4330b-58cb-40c8-b627-0a38ad490060%20(1).png)
+![logo](https://github.com/montoojatav-kcg/montoojatav-kcg/blob/main/5a950630-e482-4a42-868e-2bbf896a02af.png)
 <h1 align="center">Hi 👋, I'm Montoo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
